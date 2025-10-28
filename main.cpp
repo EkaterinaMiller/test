@@ -6,6 +6,7 @@ int main()
 
     cout<<"Hell.o.....\n";
     cout<<"Helloworld\n";
+    return 0;
 }
 void print()
 {
